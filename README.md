@@ -25,12 +25,6 @@ I was the team lead in a project where we built a web-based canteen voucher mana
 * **Database Integration:** Persistent storage in MariaDB, enabling data tracking and future analytics.
 * **React Foundation:** Frontend structure in place for creating a user-friendly interface.
 
-## Potential Enhancements
-
-* **Voucher Redemption and Tracking**
-* **User Roles and Authentication**
-* **Reporting and Analytics**
-
 ## Skills 
 
 Amazon Web Services (AWS) · Solution Architecture · AWS Command Line Interface (CLI) · JavaScript · React.js · Python (Programming Language) · MariaDB · MySQL · Amazon EC2 · Amazon VPC · Amazon S3 · Communication skills · Team Leadership · AWS Identity and Access Management (AWS IAM) · Bash · Cloud9 IDE · HTML · Flask · Network Security · Project Management
