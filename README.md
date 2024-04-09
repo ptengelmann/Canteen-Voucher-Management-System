@@ -8,7 +8,7 @@ I was the team lead in a project where we built a web-based canteen voucher mana
 
 * **Backend:** Python , MariaDB 
 * **Frontend:** React.js, HTML, JavaScript
-* **Framework** Flask
+* **Framework:** Flask
 * **Cloud:** Amazon Web Services 
 
 ## Key AWS Skills Demonstrated
