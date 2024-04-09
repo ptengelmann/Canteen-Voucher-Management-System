@@ -2,33 +2,37 @@
 
 ## Project Overview
 
-This project, led by me as Project Lead, involved a team of 5 developers in building a web-based canteen voucher system on AWS. The system facilitates efficient voucher issuance and management within a canteen environment.
+I was the team lead in a project where we built a web-based canteen voucher management system, hosted on AWS, as a solution to inefficient paper-based voucher tracking. Leveraging AWS services, we achieved secure infrastructure, simplified access, and scalability for potential future growth.
 
 ## Technologies
 
-* **Backend:** Python (Flask framework), MariaDB (relational database)
-* **Frontend:** React.js (structural setup)
-* **Cloud:** Amazon Web Services (AWS EC2, IAM roles)
+* **Backend:** Python , MariaDB 
+* **Frontend:** React.js 
+* **Cloud:** Amazon Web Services 
 
 ## Key AWS Skills Demonstrated
 
 * **Project Lead:**  Managed the project lifecycle, coordinated team efforts, and ensured alignment with AWS best practices.
-* **EC2 Instance Provisioning:** Selected appropriate AMIs and instance types (understanding of free tier).
+* **EC2 Instance Provisioning:** Selected appropriate AMIs and instance types.
 * **Security Group Configuration:**  Controlled network access for development and potential production usage.
-* **IAM Integration:**  Enabled Session Manager access (if applicable).
+* **IAM Integration:**  Enabled Session Manager access 
 * **Linux System Administration:**  Package management, service configuration, and basic troubleshooting on EC2.
 
 ## Project Features
 
 * **Secure Voucher Issuance:** Backend API endpoint to create vouchers, protecting data integrity.
-* **Database Integration:**  Persistent storage in MariaDB, enabling data tracking and future analytics.
-* **React Foundation:**  Frontend structure in place for creating a user-friendly interface.
+* **Database Integration:** Persistent storage in MariaDB, enabling data tracking and future analytics.
+* **React Foundation:** Frontend structure in place for creating a user-friendly interface.
 
 ## Potential Enhancements
 
 * **Voucher Redemption and Tracking**
 * **User Roles and Authentication**
 * **Reporting and Analytics**
+
+## Skills 
+
+Amazon Web Services (AWS) · Solution Architecture · AWS Command Line Interface (CLI) · JavaScript · React.js · Python (Programming Language) · MariaDB · MySQL · Amazon EC2 · Amazon VPC · Amazon S3 · Communication skills · Team Leadership · AWS Identity and Access Management (AWS IAM) · Bash · Cloud9 IDE · HTML · Flask · Network Security · Project Management
 
 ## Contact
 
